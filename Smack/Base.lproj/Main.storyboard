@@ -181,6 +181,7 @@
                     </view>
                     <connections>
                         <outlet property="loginBtn" destination="QOW-JC-ezC" id="Ao2-Jr-3j9"/>
+                        <outlet property="userImg" destination="9pe-x1-vIy" id="9lm-zQ-Xs5"/>
                         <segue destination="PyJ-HT-C96" kind="show" identifier="toLogin" id="unq-5x-KBu"/>
                     </connections>
                 </viewController>
