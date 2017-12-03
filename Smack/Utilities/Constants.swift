@@ -12,6 +12,8 @@ typealias CompletionHandler = (_ Success: Bool) -> ()
 
 // Notification Constants
 let NOTIF_USER_DATA_DID_CHANGE = Notification.Name("notifUserDataDidChange")
+let NOTIF_CHANNELS_LOADED = Notification.Name("channelsLoaded")
+let NOTIF_CHANNELS_SELECTED = Notification.Name("channelSelected")
 
 // URL Constants
 let BASE_URL = "https://smackchat-haddad.herokuapp.com/v1/"
