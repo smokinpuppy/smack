@@ -87,6 +87,8 @@ class MessageService{
         }
     }
     
+    
+    
     func clearMessages(){
         messages.removeAll()
     }
