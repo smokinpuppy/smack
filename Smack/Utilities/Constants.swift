@@ -10,6 +10,7 @@ import Foundation
 
 typealias CompletionHandler = (_ Success: Bool) -> ()
 
+
 // Notification Constants
 let NOTIF_USER_DATA_DID_CHANGE = Notification.Name("notifUserDataDidChange")
 let NOTIF_CHANNELS_LOADED = Notification.Name("channelsLoaded")
